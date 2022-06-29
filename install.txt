@@ -1,0 +1,6 @@
+rpa con python
+instalar libreria pyautogui en shell
+- python -m pip install pyautogui
+- import pyautogui
+- pyautogui.displayMousePosition()  (posicion de los elementos para copiar coordenadas)
+
